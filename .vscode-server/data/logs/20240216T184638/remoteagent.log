@@ -1,0 +1,28 @@
+2024-02-16 18:46:39.099 [info] 
+
+
+
+
+2024-02-16 18:46:39.099 [info] Extension host agent started.
+2024-02-16 18:46:39.099 [info] Started initializing default profile extensions in extensions installation folder. file:///home/andresbravo/.vscode-server/extensions
+2024-02-16 18:46:39.132 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/andresbravo/.vscode-server/extensions
+2024-02-16 18:46:39.549 [info] [127.0.0.1][fce01c8c][ManagementConnection] New connection established.
+2024-02-16 18:46:40.200 [info] [127.0.0.1][d3909d2d][ExtensionHostConnection] New connection established.
+2024-02-16 18:46:40.238 [info] [127.0.0.1][d3909d2d][ExtensionHostConnection] <822> Launched Extension Host Process.
+2024-02-16 18:52:08.817 [info] [127.0.0.1][fce01c8c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-16 18:52:08.921 [info] [127.0.0.1][d3909d2d][ExtensionHostConnection] <822> Extension Host Process exited with code: 0, signal: null.
+2024-02-16 18:52:11.622 [info] [127.0.0.1][9dc1d4d3][ManagementConnection] New connection established.
+2024-02-16 18:52:12.528 [info] [127.0.0.1][45064549][ExtensionHostConnection] New connection established.
+2024-02-16 18:52:12.540 [info] [127.0.0.1][45064549][ExtensionHostConnection] <1918> Launched Extension Host Process.
+2024-02-16 18:54:14.533 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-16 18:54:14.803 [info] Installing extension: ritwickdey.liveserver
+2024-02-16 18:54:16.350 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-02-16 18:54:22.862 [info] Extracted extension to file:///home/andresbravo/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-02-16 18:54:22.878 [info] Renamed to /home/andresbravo/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-02-16 18:54:22.881 [info] Extracting extension completed. ritwickdey.liveserver
+2024-02-16 18:54:22.892 [info] Extension installed successfully: ritwickdey.liveserver
+2024-02-16 18:55:34.260 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-16 18:55:34.408 [info] Installing extension: ritwickdey.liveserver
+2024-02-16 18:55:34.599 [info] Extension installed successfully: ritwickdey.liveserver
+2024-02-16 18:55:44.852 [info] [127.0.0.1][9dc1d4d3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-16 18:55:44.974 [info] [127.0.0.1][45064549][ExtensionHostConnection] <1918> Extension Host Process exited with code: 0, signal: null.

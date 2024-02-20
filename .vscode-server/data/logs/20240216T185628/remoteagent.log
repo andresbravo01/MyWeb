@@ -1,0 +1,23 @@
+2024-02-16 18:56:28.978 [info] 
+
+
+
+
+2024-02-16 18:56:28.993 [info] Extension host agent started.
+2024-02-16 18:56:29.595 [info] [127.0.0.1][1cd9c748][ManagementConnection] New connection established.
+2024-02-16 18:56:29.759 [info] [127.0.0.1][837db257][ExtensionHostConnection] New connection established.
+2024-02-16 18:56:29.806 [info] [127.0.0.1][837db257][ExtensionHostConnection] <3159> Launched Extension Host Process.
+2024-02-16 18:57:06.442 [info] [127.0.0.1][1cd9c748][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-16 18:57:06.538 [info] [127.0.0.1][837db257][ExtensionHostConnection] <3159> Extension Host Process exited with code: 0, signal: null.
+2024-02-16 18:57:08.664 [info] [127.0.0.1][e5189732][ManagementConnection] New connection established.
+2024-02-16 18:57:09.190 [info] [127.0.0.1][cec890f7][ExtensionHostConnection] New connection established.
+2024-02-16 18:57:09.198 [info] [127.0.0.1][cec890f7][ExtensionHostConnection] <3388> Launched Extension Host Process.
+2024-02-16 18:57:24.197 [info] [127.0.0.1][e5189732][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-16 18:57:24.280 [info] [127.0.0.1][cec890f7][ExtensionHostConnection] <3388> Extension Host Process exited with code: 0, signal: null.
+2024-02-16 18:57:26.079 [info] [127.0.0.1][b391d439][ManagementConnection] New connection established.
+2024-02-16 18:57:26.520 [info] [127.0.0.1][b6fcf0d7][ExtensionHostConnection] New connection established.
+2024-02-16 18:57:26.539 [info] [127.0.0.1][b6fcf0d7][ExtensionHostConnection] <3570> Launched Extension Host Process.
+2024-02-16 18:57:42.854 [info] [127.0.0.1][b6fcf0d7][ExtensionHostConnection] <3570> [0mGET /favicon.ico [33m404[0m 4.687 ms - 150[0m
+
+2024-02-16 18:59:09.836 [info] [127.0.0.1][b391d439][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-16 18:59:10.046 [info] [127.0.0.1][b6fcf0d7][ExtensionHostConnection] <3570> Extension Host Process exited with code: 0, signal: null.
